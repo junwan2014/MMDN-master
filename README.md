@@ -16,4 +16,9 @@ imgdirs_test_commomset = ['D:/dataset/ibug/']
  ```
 
 2. python ./demo.py
+3. If you want to use the funtion get_subpixel_from_kpts() to accelerate the testing in demo.py, then you should
+```
+cd ./MMDN-master
+python setup.py build_ext --inplace
+```
 
