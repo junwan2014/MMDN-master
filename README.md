@@ -11,8 +11,9 @@ A pytorch implementation of "Robust Facial Landmark Detection by Multi-order Mul
 
 # Testing
 1. change the path of training and testing datasets to your own paths in demo.py. 
-
-  imgdirs_test_commomset = ['D:/dataset/ibug/']
+```
+imgdirs_test_commomset = ['D:/dataset/ibug/']
+ ```
 
 2. python ./demo.py
 
